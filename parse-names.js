@@ -8,7 +8,7 @@ var NameParse = (function(){
 		return NameParse;
 	}
 	
-		// split full names into the following parts:
+		// split full names into the following parts: 
 		// - prefix / salutation  (Mr., Mrs., etc)
 		// - given name / first name
 		// - middle initials
